@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @verikinaboina
 - 👀 I’m interested in developing web applications
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Working on javascript angular, and react
+- 💞️ I’m looking to collaborate on Web page development
 - 📫 How to reach me anji.subbu6@gmail.com
 
 <!---
