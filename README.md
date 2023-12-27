@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @verikinaboina
+- 👋 Hi, I’m Venkat E
 - 👀 I’m interested in developing web applications
-- 🌱 I’m Working on javascript angular, and react
+- 🌱 I’ve extensive experience on javascript, angular, and react.
 - 💞️ I’m looking to collaborate on Web page development
 - 📫 How to reach me subburazz7@gmail.com
 
